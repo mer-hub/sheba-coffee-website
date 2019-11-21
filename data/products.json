@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SHEBA_COFFEE",
+    "name": "Sheba Coffee",
+    "price": 12.95,
+    "image": "/images/shebacoffee.jpg",
+    "description": "Want to sell Ethiopian sheba coffee on a good price",
+    "product_url": "http://shebacofee.netlify.com"
+  }
+]
